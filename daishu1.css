@@ -1,0 +1,31 @@
+body {
+  background-color: #f9e8a9; /* 金色背景色 */
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #d4af37; /* 深金色标题栏背景色 */
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  margin: 0;
+}
+
+.kangaroo-image {
+  display: block;
+  margin: auto;
+  max-width: 300px;
+  border: 5px solid #b7962b; /* 金色边框 */
+  border-radius: 10px;
+}
+
+.description {
+  text-align: center;
+  padding: 20px;
+  color: #555;
+}
